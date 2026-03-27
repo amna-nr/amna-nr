@@ -4,7 +4,7 @@ Backend developer building with Python and FastAPI.
 Shipped production APIs with JWT auth, PostgreSQL,
 Alembic migrations, Docker, deployed on Railway.
 
-Currently building AI-integrated backends — LLM APIs, chatbots,
+Currently building AI-integrated backends. LLM APIs, chatbots,
 and document search systems.
 
 Open to freelance work and remote backend roles.
