@@ -12,7 +12,6 @@ Open to freelance work and remote backend roles.
 **Stack:** Python · FastAPI · PostgreSQL · JWT · REST APIs · Railway · Docker · Alembic
 **Learning:** OpenAI API · pgvector · RAG systems
 
-📫 [amnanoor5778@gmail.com]
 📫 [www.linkedin.com/in/amna-nr]
 <!--
 **amna-nr/amna-nr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
